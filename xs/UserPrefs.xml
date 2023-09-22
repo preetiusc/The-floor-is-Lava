@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{C23EF1E6-097E-FD56-C0BD-806948879DCA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TrackPosition.cs">
+    <Files>
+      <File FileName="Assets/HelloWorld.cs" Line="12" Column="5" />
+      <File FileName="Assets/BallTransform.cs" Line="14" Column="1" />
+      <File FileName="Assets/TrackPosition.cs" Line="19" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="The Floor is Lava" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="TrackPosition.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a34f1aa4-7c58-4115-8326-2e153af5a8fc" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
